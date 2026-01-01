@@ -42,7 +42,7 @@ hybrid-chatbot/
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/hybrid-chatbot.git
+git clone https://github.com/Abdulwasaytahir/hybrid-chatbot.git
 cd hybrid-chatbot
 
 2️⃣ Install Required Library
